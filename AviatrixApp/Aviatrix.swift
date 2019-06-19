@@ -31,7 +31,7 @@ class Aviatrix {
     }
     
     func knownDestinations() -> [String] {
-       return ["St. Louis"]
+       return ["St. Louis", "Phoenix", "Denver", "SLC"]
     }
     init(authorName: String) {
         author = authorName
